@@ -4,8 +4,4 @@ Part3_A-Step2
 Part3 -A-Step8
 Part4_a_Step6
 Prt4-A-Step10
-<<<<<<< HEAD
 Part4-B-Step1
-=======
-Part4-B-Step1
->>>>>>> 452fcbbfc3d9a425e32a8ee50fc728b5a9f17f52
